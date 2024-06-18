@@ -1,7 +1,3 @@
-Aqui está um exemplo de um README para o código fornecido:
-
----
-
 # Face Detection with OpenCV and MediaPipe
 
 Este projeto demonstra como usar OpenCV e MediaPipe para detectar rostos em tempo real usando a webcam do seu computador. O código captura vídeo da webcam, processa as imagens para detectar rostos e desenha caixas em torno dos rostos detectados.
